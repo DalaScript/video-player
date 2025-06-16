@@ -134,7 +134,7 @@ function closeFullscreen() {
         /* IE11 */
         document.msExitFullscreen();
     }
-    video.classList.add('video-fullscreen');
+    video.classList.remove('video-fullscreen');
 }
 
 let fullscreen = false;
