@@ -55,7 +55,7 @@
  - HTML5
  - CSS3
  - Vanilla JavaScript
- - Video API
+ - `<Video>` API
 
 ### 🎓 What I Learned
 
@@ -88,13 +88,13 @@
  - [pixabay](https://pixabay.com/) - free videos
  - [mixkit](https://mixkit.co/) - free videos
  - [fontawesome](https://fontawesome.com/icons) - free icons
- - [calc()](https://developer.mozilla.org/en-US/docs/Web/CSS/calc) - The CSS calc() function
- - [<select>](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/select) - The HTML Select element
- - [HTML Audio/Video](https://www.w3schools.com/tags/ref_av_dom.asp) - HTML Audio and Video DOM Reference
- - [change event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event) - HTMLElement: change event
- - [Fullscreen](https://www.w3schools.com/howto/howto_js_fullscreen.asp) - How TO - Fullscreen
- - [Browser detection](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Browser_detection_using_the_user_agent) - Browser detection using the user agent string (UA sniffing)
- - [Chrome's UA header](https://security.stackexchange.com/questions/126407/why-does-chrome-send-four-browsers-in-the-user-agent-header) - Why does Chrome send four browsers in the user-agent header?
+ - [`calc()`](https://developer.mozilla.org/en-US/docs/Web/CSS/calc) - The CSS calc() function
+ - [`<select>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/select) - The HTML Select element
+ - [HTML Audio and Video DOM Reference](https://www.w3schools.com/tags/ref_av_dom.asp)
+ - [HTMLElement: change event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event)
+ - [How TO - Fullscreen](https://www.w3schools.com/howto/howto_js_fullscreen.asp)
+ - [Browser detection using the user agent string (UA sniffing)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Browser_detection_using_the_user_agent)
+ - [Why does Chrome send four browsers in the user-agent header?](https://security.stackexchange.com/questions/126407/why-does-chrome-send-four-browsers-in-the-user-agent-header)
 
 ---
 
