@@ -32,8 +32,8 @@
 
 ### 🔗 Links
 
- - [🔴 Live Demo](https://dalascript.github.io/projects-title/)
- - [🗂️ GitHub Repository](https://github.com/DalaScript/projects-title)
+ - [🔴 Live Demo](https://dalascript.github.io/video-player/)
+ - [🗂️ GitHub Repository](https://github.com/DalaScript/video-player)
 
 ### 📌 Features
 
@@ -55,7 +55,6 @@
  - HTML5
  - CSS3
  - Vanilla JavaScript
- - `<Video>` API
 
 ### 🎓 What I Learned
 
@@ -85,16 +84,16 @@
 
 ### 🗃️ Useful resources
 
- - [pixabay](https://pixabay.com/) - free videos
- - [mixkit](https://mixkit.co/) - free videos
- - [fontawesome](https://fontawesome.com/icons) - free icons
- - [`calc()`](https://developer.mozilla.org/en-US/docs/Web/CSS/calc) - The CSS calc() function
- - [`<select>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/select) - The HTML Select element
- - [HTML Audio and Video DOM Reference](https://www.w3schools.com/tags/ref_av_dom.asp)
- - [HTMLElement: change event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event)
- - [How TO - Fullscreen](https://www.w3schools.com/howto/howto_js_fullscreen.asp)
- - [Browser detection using the user agent string (UA sniffing)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Browser_detection_using_the_user_agent)
- - [Why does Chrome send four browsers in the user-agent header?](https://security.stackexchange.com/questions/126407/why-does-chrome-send-four-browsers-in-the-user-agent-header)
+ - [https://pixabay.com/videos/](https://pixabay.com/) – Free video footage for background or demo use
+ - [Mixkit - Free Stock Videos](https://mixkit.co/) – High-quality royalty-free videos
+ - [FontAwesome Icons](https://fontawesome.com/icons) – Free icons for custom controls
+ - [W3Schools - Fullscreen](https://www.w3schools.com/howto/howto_js_fullscreen.asp) – Guide to fullscreen toggle in JS
+ - [W3Schools - Video DOM Reference](https://www.w3schools.com/tags/ref_av_dom.asp) – Reference for `<video>` events and methods
+ - [MDN - Calc Method](https://developer.mozilla.org/en-US/docs/Web/CSS/calc) – Dynamic sizing using `calc()` in CSS
+ - [MDN - Select](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/select) – Use dropdowns for playback speeds
+ - [MDN - Change Event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event) – Detect user interactions with inputs
+ - [User Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Browser_detection_using_the_user_agent) – Info on identifying browsers via headers
+ - [Chrome's Confusing User Agent](https://security.stackexchange.com/questions/126407/why-does-chrome-send-four-browsers-in-the-user-agent-header) – Why Chrome's user agent includes multiple identifiers
 
 ---
 
